@@ -1,0 +1,27 @@
+* {
+    font-family: "Lucida Console", monospace;
+    font-size: small;
+    color:black;
+    padding: 5px 15px;
+    position: static;
+}
+
+h1 {
+    font-size: xx-large;
+    text-align: center;
+    color: #F5B800;
+}
+
+h2 {
+    color:#F65F4C;
+    font-size: medium;
+}
+
+#icetea {
+    border: 2px solid #F09B0A;
+    border-radius: 5px;
+}
+
+.summer {
+    background-color: beige;
+}
